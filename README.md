@@ -1,4 +1,4 @@
-## Video Editor
+## VidEdit - Powerfull Python Video Editor Tool
 # Description
 This is a powerful and intuitive video editor made in Python using the Tkinter library for the GUI and Moviepy for video processing. Our video editor is packed with features that allow you to create stunning videos quickly and easily.
 

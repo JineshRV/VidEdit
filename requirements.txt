@@ -1,0 +1,5 @@
+moviepy==1.0.3
+opencv_python_headless==4.5.4.60
+Pillow==9.4.0
+proglog==0.1.10
+tkVideoPlayer==2.3
